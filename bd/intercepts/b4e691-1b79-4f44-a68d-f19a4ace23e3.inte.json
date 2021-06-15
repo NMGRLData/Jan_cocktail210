@@ -10,14 +10,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "linear",
-        "fn": 179,
+        "fn": 180,
         "include_baseline_error": true,
         "n": 180,
-        "outlier_excluded": [
-            74
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.002206020082185944
     },
     "Ar37": {
@@ -34,9 +32,9 @@
         "fn": 180,
         "include_baseline_error": true,
         "n": 180,
-        "outlier_excluded": [],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": -0.025310624261263362
     },
     "Ar38": {
@@ -53,9 +51,9 @@
         "fn": 180,
         "include_baseline_error": true,
         "n": 180,
-        "outlier_excluded": [],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.03539395657287074
     },
     "Ar39": {
@@ -72,9 +70,9 @@
         "fn": 180,
         "include_baseline_error": true,
         "n": 180,
-        "outlier_excluded": [],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.14186716208035582
     },
     "Ar40": {
@@ -91,9 +89,9 @@
         "fn": 180,
         "include_baseline_error": true,
         "n": 180,
-        "outlier_excluded": [],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.17456612000087193
     },
     "Ar41": {

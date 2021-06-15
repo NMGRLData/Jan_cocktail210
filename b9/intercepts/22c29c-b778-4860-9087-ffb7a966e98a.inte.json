@@ -13,9 +13,9 @@
         "fn": 180,
         "include_baseline_error": true,
         "n": 180,
-        "outlier_excluded": [],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.0020770774077604514
     },
     "Ar37": {
@@ -29,14 +29,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "linear",
-        "fn": 179,
+        "fn": 180,
         "include_baseline_error": true,
         "n": 180,
-        "outlier_excluded": [
-            110
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": -0.033233240310092005
     },
     "Ar38": {
@@ -50,15 +48,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "linear",
-        "fn": 178,
+        "fn": 180,
         "include_baseline_error": true,
         "n": 180,
-        "outlier_excluded": [
-            116,
-            62
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.02987771923094079
     },
     "Ar39": {
@@ -75,9 +70,9 @@
         "fn": 180,
         "include_baseline_error": true,
         "n": 180,
-        "outlier_excluded": [],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.13038113573324223
     },
     "Ar40": {
@@ -94,9 +89,9 @@
         "fn": 180,
         "include_baseline_error": true,
         "n": 180,
-        "outlier_excluded": [],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.1527836888107037
     },
     "Ar41": {
