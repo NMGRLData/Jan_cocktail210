@@ -1,15 +1,27 @@
 {
     "Ar36": {
-        "error": 0.0001696353939781589,
+        "error": 0.0001171586265246297,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Weighted Mean_SEM",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-03-J-267"
+                "exclude": "ok",
+                "record_id": "bc-03-J-917",
+                "uuid": "a853cc38-1d4d-403d-9964-6e72fe9808c1"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-J-918",
+                "uuid": "920c6785-8b60-4607-b51b-aa9fca33c6af"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-J-919",
+                "uuid": "28d155be-d72e-44e6-8852-cb8c2afdfa9e"
             }
         ],
-        "value": 0.00128629326296904
+        "reviewed": true,
+        "value": 0.0019317692576311975
     },
     "Ar37": {
         "error": 0.0013986679883612307,
@@ -444,16 +456,28 @@
         "value": 0.03308447058044817
     },
     "Ar40": {
-        "error": 0.012616443206043838,
+        "error": 0.004182949950088209,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Weighted Mean_SEM",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-03-J-267"
+                "exclude": "ok",
+                "record_id": "bc-03-J-917",
+                "uuid": "a853cc38-1d4d-403d-9964-6e72fe9808c1"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-J-918",
+                "uuid": "920c6785-8b60-4607-b51b-aa9fca33c6af"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bc-03-J-919",
+                "uuid": "28d155be-d72e-44e6-8852-cb8c2afdfa9e"
             }
         ],
-        "value": 0.08143030889512443
+        "reviewed": true,
+        "value": 0.16990564456975868
     },
     "Ar41": {
         "error": 0.03843411722031894,
