@@ -1,8 +1,8 @@
 {
     "Ar36": {
-        "error": 5.5121144264333514e-05,
+        "error": 7.804738973747204e-05,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -21,12 +21,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0019724459741131926
+        "value": 0.001972445974113192
     },
     "Ar37": {
-        "error": 0.003969123593377866,
+        "error": 0.004333728339186375,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -45,12 +45,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.031032293275348725
+        "value": 0.031032293275348732
     },
     "Ar38": {
-        "error": 0.0015846251252223237,
+        "error": 0.003881234928299665,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -69,12 +69,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.005308061456047754
+        "value": 0.005308061456047768
     },
     "Ar39": {
-        "error": 0.006637405174543579,
+        "error": 0.009109497653399454,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -93,12 +93,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.031009322537529267
+        "value": 0.031009322537529218
     },
     "Ar40": {
-        "error": 0.006516143857763039,
+        "error": 0.0363120023384783,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -117,7 +117,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.1949537311427601
+        "value": 0.14188733840777104
     },
     "Ar41": {
         "error": 0.04163555574679815,
